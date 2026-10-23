@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile! 👋
 
-I'm Carol, a PhD candidate specializing in cybersecurity. My research focuses on leveraging Digital Twin technology to detect Advanced Persistent Threats (APTs) targeting Cyber-Physical Systems in smart manufacturing environments.
+I'm Carol, a PhD researcher specializing in cybersecurity. My research focuses on leveraging Digital Twin technology to detect Advanced Persistent Threats (APTs) targeting Cyber-Physical Systems in smart manufacturing environments.
 
 Currently, I'm working with various Siemens software and hardware to set up an ICS testbed for threat simulation and detection.
 
